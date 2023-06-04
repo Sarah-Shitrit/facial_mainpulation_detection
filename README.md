@@ -7,7 +7,7 @@ and utility functions to load models and datasets.
 • **faces dataset.py** : holds the faces dataset module which upon querying
 returns an image and a label.
 
-• **show faces dataset.py** : plots samples of the two datasets to a figure.
+• **plot_samples_of_faces_datasets.py** : plots samples of the two datasets to a figure.
 
 • **train main.py** : the main training script. Among other arguments, it
 receives the model name and dataset name we wish to train.
